@@ -1,1 +1,0 @@
-Create index inde on actual_activity(act_name);

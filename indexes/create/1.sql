@@ -1,1 +1,0 @@
-Create index inde on visiter(age);

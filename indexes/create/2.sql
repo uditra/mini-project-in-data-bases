@@ -1,1 +1,0 @@
-Create index inde on visiter(visit_date);
